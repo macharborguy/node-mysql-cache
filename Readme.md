@@ -22,14 +22,7 @@ because of this use case.
 * [Current status](#Status)
 * [Contributors](#Contributors)
 * [Compatibility](#Compatibility)
-* [Installation](#Installation)
 * [API](#API)
-    * [Creation of a new pool](#NewPool)
-    * [Options](#Options)
-    * [Methods affecting all connections](#AllConnections)
-    * [Methods invoked on a single connection](#SingleConnection)
-    * [Methods unrelated to connections](#NoConnection)
-    * [event: 'error' \(err\)](#EventError)
 * [Todo](#Todo)
 * [Licence](#Licence)
 
@@ -98,6 +91,12 @@ Otherwise the requirements are the same as for
 <h2>API</h2>
 
 * TODO
+
+<a name="TODO"></a>
+<h2>TODO</h2>
+
+* Document the API
+* Add unit tests
 
 <a name="Licence"></a>
 <h2>Licence</h2>
