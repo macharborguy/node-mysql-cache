@@ -5,7 +5,7 @@
 <h2>Purpose</h2>
 
 node-mysql-cache is a MySQL [query cache](http://en.wikipedia.org/wiki/Database_caching)
-for [node.js](http://nodejs.org/) on top of Felix Geisendörfer's MySQL client
+for [node.js](http://nodejs.org/) on top of Felix GeisendÃ¶rfer's MySQL client
 [node-mysql](https://github.com/felixge/node-mysql).
 
 The goal of this implementation is to reduce the load on the MySQL server and serve a large number
@@ -76,7 +76,7 @@ If you find an error, please file an [issue](https://github.com/guggero/node-mys
 
 * [Oliver Gugger](https://github.com/guggero)
 
-Since this is my first github project, I used some files from [René Kijewski](https://github.com/Kijewski) as templates.
+Since this is my first github project, I used some files from [RenÃ© Kijewski](https://github.com/Kijewski) as templates.
 Thank you, I hope you don't mind!
 
 <a name="Compatibility"></a>
